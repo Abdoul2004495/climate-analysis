@@ -105,6 +105,7 @@ print(incomplete_months)
 
 **Note:** This completeness check assumes that each row represents one daily observation and that there are no duplicate dates. If the dataset contains a station identifier, completeness should also be checked separately for each station. Missing observations and duplicate records should be investigated before calculating monthly averages.
 
+[Click Here](analyse_temperature.ipynb)
 ---
 
 ## 📊 Results
